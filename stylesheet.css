@@ -51,6 +51,7 @@ input {
   margin-bottom:30px;
   padding:20px;
   font-size:18px;
+  left: 10px;	
   border-radius: 20px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -61,7 +62,7 @@ input {
     padding:20px;
     left: -52px;
     border:2px solid #53bd84;
-    background-color:#53bd84;
+    background-color:#fffff;
     color:#fafafa;
 }
 
