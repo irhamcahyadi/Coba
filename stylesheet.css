@@ -56,19 +56,19 @@ nav{
     text-align: center;
 }
 
-.main {
+.main{
     background-color: white;
     height: 600px;   
 }
 
-.footer {
+.footer{
     background-color: blue;
     color: white;
     height: 120px;
     padding: 40px;
 }   
  
-.footer-logo {
+.footer-logo{
     font-size: 32px;
     float: left;
 }
@@ -78,6 +78,6 @@ nav{
     height: auto;
 }
 
-.footer-list {
+.footer-social{
     float: right;
 }
