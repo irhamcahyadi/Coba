@@ -15,7 +15,7 @@ ul,li, a{
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(https://www.insidehighered.com/sites/default/server_files/media/iStock-520374378.jpg);
   background-size:cover;
   color: white;
   text-align: center;
@@ -43,17 +43,18 @@ header {
 }
 
 .header-logo {
-  width: 124px;
+  width: 100px;
+  height: auto;
   margin-top: 20px;
 }
 
-.nav {
+.navbar {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
   transition: all 0.5s;
 }
 
-.nav:hover {
+.navbar:hover {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -63,4 +64,5 @@ header {
   padding-right: 25px;
   display: block;
   color: white
+  float: left;
 }
