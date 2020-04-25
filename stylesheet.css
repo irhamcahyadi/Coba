@@ -56,10 +56,10 @@ input {
   -moz-border-radius: 5px;
 }
 
-.fa {
+.icon {
     position:relative;
     padding:6px 15px;
-    left:-8px;
+    left:-10px;
     border:2px solid #53bd84;
     background-color:#53bd84;
     color:#fafafa;
