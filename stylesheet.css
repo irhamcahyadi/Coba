@@ -60,8 +60,9 @@ input {
 .icon {
     position:relative;
     padding:20px;
-    left: -52px;
+    left: -8px;
     border:1px solid #dee7ec;
+    backgroun-color:rgba(0, 25, 65, 1);
 }
 
 header {
