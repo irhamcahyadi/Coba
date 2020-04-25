@@ -57,27 +57,27 @@ nav{
 }
 
 .main {
-    background-color:white;
+    background-color: white;
     height: 600px;   
 }
 
 .footer {
     background-color:teal;
-    color:white;
+    color: white;
     height: 120px;
-    padding:40px;
+    padding: 40px;
 }   
  
 .footer-logo {
-    font-size:32px;
-    float:left;
+    font-size: 32px;
+    float: left;
 }
 
 .footer-logo img{
-    width:100px;
-    height:auto;
+    width: 100px;
+    height: auto;
 }
 
 .footer-list {
-    float:right;
+    float: right;
 }
