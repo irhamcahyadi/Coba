@@ -57,13 +57,13 @@ nav{
 }
 
 .main {
-    background-color: #bdf7f1;
+    background-color:white;
     height: 600px;   
 }
 
 .footer {
-    background-color: #2f5167;
-    color:#fff;
+    background-color:teal;
+    color:white;
     height: 120px;
     padding:40px;
 }   
