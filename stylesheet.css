@@ -58,7 +58,8 @@ input {
 
 .icon {
   color: #dee7ec;
-  padding:20px;	
+  padding:20px;
+  background-color:rgba(0, 25, 65, 0.9);	
 }
 
 header {
