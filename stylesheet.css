@@ -57,9 +57,12 @@ input {
 }
 
 .fa {
-  color: #dee7ec;
-  padding:20px 0px;
-  background-color:rgba(0, 25, 65, 1);	
+    position:relative;
+    padding:6px 15px;
+    left:-8px;
+    border:2px solid #53bd84;
+    background-color:#53bd84;
+    color:#fafafa;
 }
 
 header {
