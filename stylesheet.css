@@ -70,11 +70,6 @@ input {
     -moz-border-radius: 5px;
 }
 
-.icon:hover {
-    background-color:rgba(0, 25, 65, 1);
-    border:1px solid #dee7ec;
-}	
-
 header {
   height: 65px;
   width: 100%;
