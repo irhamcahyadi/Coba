@@ -7,6 +7,11 @@
 .heading h2 {
  font-size: 20px;
   }
+
+.card {  
+	width: 50%;
+    margin-bottom: 50px;  
+	} 
 }
 
 /* Untuk Smartphone */
@@ -37,5 +42,8 @@
     line-height: 20px;
     text-align: left;
   }
+  
+  .text {font-size: 11px}
+  
+  .card {width:100%}
 }
-
