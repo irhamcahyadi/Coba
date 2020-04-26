@@ -114,8 +114,8 @@ header {
 }
 
 .header-right li a:hover {
-  background-color: rgba(51, 102, 153, 1);
+  background-color: black;
 }
 
 .active {
-   background-color: black;
+   background-color: rgba(51, 102, 153, 1);
