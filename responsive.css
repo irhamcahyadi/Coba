@@ -11,7 +11,11 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-.top-wrapper {
+ .header {
+   width:25%;
+ }
+ 
+ .top-wrapper {
     text-align: left;
   }
   
@@ -21,7 +25,7 @@
   }
   
   /* Tambahkan CSS untuk menu-icon */
-  .menu-icon {
+ .menu-icon {
     display:block;
   }
   
@@ -37,5 +41,6 @@
  
  .input {
   width: 25%;
+ }
 }
 
