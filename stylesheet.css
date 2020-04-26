@@ -95,22 +95,18 @@ header {
 
 .header-right {
   float: right;
-  transition: all 0.5s;
-}
 
-.header-right li{
+.header-right a{
   float:left;
-}
-
-.header-right li a{
   display: inline-block;
   color: white;
   height:65px;
   line-height: 65px;
   padding: 0px 20px;
+  transition: all 0.5s;
 }
 
-.header-right li a:hover {
+.header-right a:hover {
   background-color: black;
 }
 
